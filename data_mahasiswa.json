@@ -22,5 +22,11 @@
         "nim": "202323234",
         "nama": "Siapa",
         "jurusan": "Teknik informatika"
+    },
+    {
+        "id": 5,
+        "nim": "2411520007",
+        "nama": "Ryan Febriandy",
+        "jurusan": "Teknik Informatika"
     }
 ]
